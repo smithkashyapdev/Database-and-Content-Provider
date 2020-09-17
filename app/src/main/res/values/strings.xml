@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="searchByName">Search by name</string>
+
+    <string-array name="array_name">
+        <item>Debit</item>
+        <item>Credit</item>
+    </string-array>
+
+</resources>
